@@ -1,4 +1,4 @@
-# Week 1 Assessment — Python & Data Engineering
+# Week 1 Assessment - Analysis Version
 
 A beginner-friendly solution covering Python fundamentals/OOP, CSV and JSON file I/O, a REST API request, NumPy, Pandas, Matplotlib, Jupyter and Git.
 
